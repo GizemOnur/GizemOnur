@@ -6,7 +6,7 @@
 
 <br>
 
-[Link to my landing page](https://GizemOnur.github.io)
+[Link to my landing page](https://GizemOnur.github.io/GizemOnur)
 
 ## **My skills**
 - **My passion for design and my creativity**
