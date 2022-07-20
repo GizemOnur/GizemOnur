@@ -2,8 +2,7 @@
 # **Hi ! I'm Gizem !** 👋 👩🏻‍💻
 ![couverture](https://github.com/GizemOnur/GizemOnur/blob/main/bannie%CC%80re.png)
 
-### Junior UI/UX Designer & Front-End Developer passionate about entrepreneurship, creativity and the digital
-            world Skilled in Front-End Development, UI/UX Design and Media Communication.
+### Junior UI/UX Designer & Front-End Developer passionate about entrepreneurship, creativity and the digital world. Skilled in Front-End Development, UI/UX Design and Media Communication.
 
 <br>
 
