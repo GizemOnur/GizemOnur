@@ -37,12 +37,6 @@
 
 <br>
 
-## **My objectives as a developer**
-
-I would like to realize all the technical functionalities of a website or a web application and design tailor-made sites or adapting them with existing technical solutions according to the project and the customer's request. 
-
-<br>
-
 
 ## **Three things I value the most to work as a team**
 
