@@ -554,6 +554,10 @@ section {
   padding: 0;
 }
 
+.swiper-button-prev, .swiper-button-next{
+  color: #8ccdb6;
+}
+
 
 
 
