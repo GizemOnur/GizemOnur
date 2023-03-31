@@ -17,7 +17,7 @@
 
 <br>
 
- ## **Techs I've been working on during my BeCode Training**
+ ## **Techs I've been working during my trainings**
 
 - HTLM5 
 - CSS3
