@@ -1,6 +1,6 @@
 
 # **Hi ! I'm Gizem !** 👋 👩🏻‍💻
-![couverture](https://github.com/GizemOnur/GizemOnur/blob/main/Fluo%20Vert%20et%20Blanc%20Professionnel%20LinkedIn%20Bannie%CC%80re.png)
+![couverture](https://github.com/GizemOnur/GizemOnur/blob/main/bannière.png)
 
 ### Junior UI/UX Designer & Front-End Developer passionate about entrepreneurship, creativity and the digital world. Skilled in Front-End Development, UI/UX Design and Media Communication.
 
@@ -17,7 +17,7 @@
 
 <br>
 
- ## **Techs I've been working on during my BeCode Training**
+ ## **Techs I've been working during my trainings**
 
 - HTLM5 
 - CSS3
